@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0947-most-stones-removed-with-same-row-or-column](https://github.com/Uttam296/LeetCode/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [1311-get-watched-videos-by-your-friends](https://github.com/Uttam296/LeetCode/tree/master/1311-get-watched-videos-by-your-friends) |
 ## Breadth-First Search
 |  |
@@ -20,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Uttam296/LeetCode/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [0947-most-stones-removed-with-same-row-or-column](https://github.com/Uttam296/LeetCode/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [1311-get-watched-videos-by-your-friends](https://github.com/Uttam296/LeetCode/tree/master/1311-get-watched-videos-by-your-friends) |
 | [2685-count-the-number-of-complete-components](https://github.com/Uttam296/LeetCode/tree/master/2685-count-the-number-of-complete-components) |
 ## Sorting
@@ -34,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Uttam296/LeetCode/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [0947-most-stones-removed-with-same-row-or-column](https://github.com/Uttam296/LeetCode/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [2685-count-the-number-of-complete-components](https://github.com/Uttam296/LeetCode/tree/master/2685-count-the-number-of-complete-components) |
 ## Topological Sort
 |  |
@@ -50,5 +53,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union-Find
 |  |
 | ------- |
+| [0947-most-stones-removed-with-same-row-or-column](https://github.com/Uttam296/LeetCode/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [2685-count-the-number-of-complete-components](https://github.com/Uttam296/LeetCode/tree/master/2685-count-the-number-of-complete-components) |
 <!---LeetCode Topics End-->
