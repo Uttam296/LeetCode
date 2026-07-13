@@ -5,11 +5,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Uttam296/LeetCode/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [0721-accounts-merge](https://github.com/Uttam296/LeetCode/tree/master/0721-accounts-merge) |
 | [1311-get-watched-videos-by-your-friends](https://github.com/Uttam296/LeetCode/tree/master/1311-get-watched-videos-by-your-friends) |
 | [1331-rank-transform-of-an-array](https://github.com/Uttam296/LeetCode/tree/master/1331-rank-transform-of-an-array) |
 ## Hash Table
 |  |
 | ------- |
+| [0721-accounts-merge](https://github.com/Uttam296/LeetCode/tree/master/0721-accounts-merge) |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/Uttam296/LeetCode/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [1311-get-watched-videos-by-your-friends](https://github.com/Uttam296/LeetCode/tree/master/1311-get-watched-videos-by-your-friends) |
 | [1331-rank-transform-of-an-array](https://github.com/Uttam296/LeetCode/tree/master/1331-rank-transform-of-an-array) |
@@ -17,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Uttam296/LeetCode/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [0721-accounts-merge](https://github.com/Uttam296/LeetCode/tree/master/0721-accounts-merge) |
 | [1311-get-watched-videos-by-your-friends](https://github.com/Uttam296/LeetCode/tree/master/1311-get-watched-videos-by-your-friends) |
 | [2685-count-the-number-of-complete-components](https://github.com/Uttam296/LeetCode/tree/master/2685-count-the-number-of-complete-components) |
 ## Graph Theory
@@ -29,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0721-accounts-merge](https://github.com/Uttam296/LeetCode/tree/master/0721-accounts-merge) |
 | [1311-get-watched-videos-by-your-friends](https://github.com/Uttam296/LeetCode/tree/master/1311-get-watched-videos-by-your-friends) |
 | [1331-rank-transform-of-an-array](https://github.com/Uttam296/LeetCode/tree/master/1331-rank-transform-of-an-array) |
 ## Dynamic Programming
@@ -39,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Uttam296/LeetCode/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [0721-accounts-merge](https://github.com/Uttam296/LeetCode/tree/master/0721-accounts-merge) |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/Uttam296/LeetCode/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [2685-count-the-number-of-complete-components](https://github.com/Uttam296/LeetCode/tree/master/2685-count-the-number-of-complete-components) |
 ## Topological Sort
@@ -56,10 +61,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union-Find
 |  |
 | ------- |
+| [0721-accounts-merge](https://github.com/Uttam296/LeetCode/tree/master/0721-accounts-merge) |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/Uttam296/LeetCode/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [2685-count-the-number-of-complete-components](https://github.com/Uttam296/LeetCode/tree/master/2685-count-the-number-of-complete-components) |
 ## Enumeration
 |  |
 | ------- |
 | [1291-sequential-digits](https://github.com/Uttam296/LeetCode/tree/master/1291-sequential-digits) |
+## String
+|  |
+| ------- |
+| [0721-accounts-merge](https://github.com/Uttam296/LeetCode/tree/master/0721-accounts-merge) |
 <!---LeetCode Topics End-->
