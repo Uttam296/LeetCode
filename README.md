@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/Uttam296/LeetCode/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [1311-get-watched-videos-by-your-friends](https://github.com/Uttam296/LeetCode/tree/master/1311-get-watched-videos-by-your-friends) |
 | [1514-path-with-maximum-probability](https://github.com/Uttam296/LeetCode/tree/master/1514-path-with-maximum-probability) |
+| [1976-number-of-ways-to-arrive-at-destination](https://github.com/Uttam296/LeetCode/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 | [2685-count-the-number-of-complete-components](https://github.com/Uttam296/LeetCode/tree/master/2685-count-the-number-of-complete-components) |
 ## Sorting
 |  |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Uttam296/LeetCode/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [1976-number-of-ways-to-arrive-at-destination](https://github.com/Uttam296/LeetCode/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -61,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Uttam296/LeetCode/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [1976-number-of-ways-to-arrive-at-destination](https://github.com/Uttam296/LeetCode/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 ## Memoization
 |  |
 | ------- |
@@ -97,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0743-network-delay-time](https://github.com/Uttam296/LeetCode/tree/master/0743-network-delay-time) |
 | [1514-path-with-maximum-probability](https://github.com/Uttam296/LeetCode/tree/master/1514-path-with-maximum-probability) |
+| [1976-number-of-ways-to-arrive-at-destination](https://github.com/Uttam296/LeetCode/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 ## Math
 |  |
 | ------- |
