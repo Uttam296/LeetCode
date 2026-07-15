@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1311-get-watched-videos-by-your-friends](https://github.com/Uttam296/LeetCode/tree/master/1311-get-watched-videos-by-your-friends) |
 | [1331-rank-transform-of-an-array](https://github.com/Uttam296/LeetCode/tree/master/1331-rank-transform-of-an-array) |
 | [1514-path-with-maximum-probability](https://github.com/Uttam296/LeetCode/tree/master/1514-path-with-maximum-probability) |
+| [1631-path-with-minimum-effort](https://github.com/Uttam296/LeetCode/tree/master/1631-path-with-minimum-effort) |
 ## Hash Table
 |  |
 | ------- |
@@ -24,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0721-accounts-merge](https://github.com/Uttam296/LeetCode/tree/master/0721-accounts-merge) |
 | [0743-network-delay-time](https://github.com/Uttam296/LeetCode/tree/master/0743-network-delay-time) |
 | [1311-get-watched-videos-by-your-friends](https://github.com/Uttam296/LeetCode/tree/master/1311-get-watched-videos-by-your-friends) |
+| [1631-path-with-minimum-effort](https://github.com/Uttam296/LeetCode/tree/master/1631-path-with-minimum-effort) |
 | [2685-count-the-number-of-complete-components](https://github.com/Uttam296/LeetCode/tree/master/2685-count-the-number-of-complete-components) |
 ## Graph Theory
 |  |
@@ -53,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0721-accounts-merge](https://github.com/Uttam296/LeetCode/tree/master/0721-accounts-merge) |
 | [0743-network-delay-time](https://github.com/Uttam296/LeetCode/tree/master/0743-network-delay-time) |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/Uttam296/LeetCode/tree/master/0947-most-stones-removed-with-same-row-or-column) |
+| [1631-path-with-minimum-effort](https://github.com/Uttam296/LeetCode/tree/master/1631-path-with-minimum-effort) |
 | [2685-count-the-number-of-complete-components](https://github.com/Uttam296/LeetCode/tree/master/2685-count-the-number-of-complete-components) |
 ## Topological Sort
 |  |
@@ -66,12 +69,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Uttam296/LeetCode/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [1631-path-with-minimum-effort](https://github.com/Uttam296/LeetCode/tree/master/1631-path-with-minimum-effort) |
 ## Union-Find
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/Uttam296/LeetCode/tree/master/0547-number-of-provinces) |
 | [0721-accounts-merge](https://github.com/Uttam296/LeetCode/tree/master/0721-accounts-merge) |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/Uttam296/LeetCode/tree/master/0947-most-stones-removed-with-same-row-or-column) |
+| [1631-path-with-minimum-effort](https://github.com/Uttam296/LeetCode/tree/master/1631-path-with-minimum-effort) |
 | [2685-count-the-number-of-complete-components](https://github.com/Uttam296/LeetCode/tree/master/2685-count-the-number-of-complete-components) |
 ## Enumeration
 |  |
@@ -86,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0743-network-delay-time](https://github.com/Uttam296/LeetCode/tree/master/0743-network-delay-time) |
 | [1514-path-with-maximum-probability](https://github.com/Uttam296/LeetCode/tree/master/1514-path-with-maximum-probability) |
+| [1631-path-with-minimum-effort](https://github.com/Uttam296/LeetCode/tree/master/1631-path-with-minimum-effort) |
 ## Shortest Path
 |  |
 | ------- |
@@ -99,4 +105,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Uttam296/LeetCode/tree/master/3658-gcd-of-odd-and-even-sums) |
+## Binary Search
+|  |
+| ------- |
+| [1631-path-with-minimum-effort](https://github.com/Uttam296/LeetCode/tree/master/1631-path-with-minimum-effort) |
 <!---LeetCode Topics End-->
