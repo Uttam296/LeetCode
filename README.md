@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0721-accounts-merge](https://github.com/Uttam296/LeetCode/tree/master/0721-accounts-merge) |
 | [1311-get-watched-videos-by-your-friends](https://github.com/Uttam296/LeetCode/tree/master/1311-get-watched-videos-by-your-friends) |
 | [1331-rank-transform-of-an-array](https://github.com/Uttam296/LeetCode/tree/master/1331-rank-transform-of-an-array) |
+| [1514-path-with-maximum-probability](https://github.com/Uttam296/LeetCode/tree/master/1514-path-with-maximum-probability) |
 ## Hash Table
 |  |
 | ------- |
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0743-network-delay-time](https://github.com/Uttam296/LeetCode/tree/master/0743-network-delay-time) |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/Uttam296/LeetCode/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [1311-get-watched-videos-by-your-friends](https://github.com/Uttam296/LeetCode/tree/master/1311-get-watched-videos-by-your-friends) |
+| [1514-path-with-maximum-probability](https://github.com/Uttam296/LeetCode/tree/master/1514-path-with-maximum-probability) |
 | [2685-count-the-number-of-complete-components](https://github.com/Uttam296/LeetCode/tree/master/2685-count-the-number-of-complete-components) |
 ## Sorting
 |  |
@@ -83,10 +85,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0743-network-delay-time](https://github.com/Uttam296/LeetCode/tree/master/0743-network-delay-time) |
+| [1514-path-with-maximum-probability](https://github.com/Uttam296/LeetCode/tree/master/1514-path-with-maximum-probability) |
 ## Shortest Path
 |  |
 | ------- |
 | [0743-network-delay-time](https://github.com/Uttam296/LeetCode/tree/master/0743-network-delay-time) |
+| [1514-path-with-maximum-probability](https://github.com/Uttam296/LeetCode/tree/master/1514-path-with-maximum-probability) |
 ## Math
 |  |
 | ------- |
